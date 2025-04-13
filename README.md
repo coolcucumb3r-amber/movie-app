@@ -1,19 +1,13 @@
 # Movie App 🎬
 
-A full-stack web app built with Flask (backend) and React (frontend). Users can search for and manage their favorite movies.
+A full-stack web app built with Flask (backend) and React (frontend). Users can search for and manage upcoming movies.
 
 ## 🔧 Tech Stack
 
 - **Frontend:** React
 - **Backend:** Flask + SQLAlchemy
 - **Environment:** Conda
-- **API:** (Optional) TMDB or custom movie DB
+- **API:** 
 
 ## 📦 Getting Started
 
-### Backend
-
-```bash
-cd backend
-conda activate movieapp-env
-flask run
